@@ -1,7 +1,4 @@
-print("First Python Text ")
-x = 0
-y=  "Hello"
-for x in 10 :
-    print(x)
-
-
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished!")
